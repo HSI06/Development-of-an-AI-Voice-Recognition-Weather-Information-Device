@@ -1,7 +1,6 @@
 # 인공지능 음성을 인식하여 날씨 정보 알려주는 장치 만들기
 ## Development of an AI Voice Recognition Weather Information Device
 
-한신대학교 AI·SW학전공 AIoT 설계입문 프로젝트
 
 ---
 
